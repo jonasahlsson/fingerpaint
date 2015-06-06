@@ -8,15 +8,16 @@ See Fingerpaint in action here. [Paint, play and be creative with Fingerpaint](h
 
 Build you own
 -------------
-Build you're own paint application. You can use the example files to get started quickly.
+Build your own paint application. [Head over to the example directory](https://github.com/jonasahlsson/fingerpaint/tree/master/example) to get started quickly on your own project. The files you are looking for are.
 
 * fingerpaint.js
 * example.html
 * style.css
+* img folder 
 
 Requirements
 -------
-Nothing out of the ordinary
+Nothing out of the ordinary.
 
 * HTML5 canvas
 * JavaScript enabled
