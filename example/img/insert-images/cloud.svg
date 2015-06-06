@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="257.07925"
+   id="svg4956"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cloud.svg"
+   sodipodi:version="0.32"
+   width="300.22256"
+   version="1.1">
+  <metadata
+     id="metadata4787">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Cloud</dc:title>
+        <dc:description>This is a standard cloud shape.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>thought</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>bubble</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>comic</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2005-08-08</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>EN</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4958" />
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="layer1"
+     inkscape:cx="170.82824"
+     inkscape:cy="-94.314904"
+     inkscape:document-units="px"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="662"
+     inkscape:window-width="1280"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:zoom="0.35"
+     pagecolor="#ffffff"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-204.17176,-180.96801)">
+    <path
+       d="m 410.67959,194.3815 c -18.30444,-4.90469 -36.82842,0.70825 -49.61647,12.90201 -6.68123,-8.0308 -15.72799,-14.22893 -26.57918,-17.13631 -27.92669,-7.48279 -56.69615,9.12715 -64.17914,37.05391 -0.54987,2.05207 -0.69463,4.11563 -0.98952,6.16804 -25.14936,-2.61428 -49.21332,13.12987 -55.96464,38.32639 -6.68961,24.96596 5.93404,50.49446 28.62304,60.99079 -1.23333,2.67445 -2.38327,5.4297 -3.1711,8.36954 -7.48286,27.92676 9.14371,56.63445 37.07047,64.11724 13.67859,3.66566 27.50194,1.51319 38.97697,-4.87629 6.32419,13.52947 18.11535,24.41863 33.65903,28.58328 22.17751,5.94255 44.68206,-3.47094 56.83177,-21.51361 4.92153,3.48412 10.39203,6.36615 16.55426,8.01761 27.92669,7.48279 56.63428,-9.14405 64.11727,-37.07081 3.76287,-14.04299 1.43453,-28.25434 -5.35803,-39.90145 6.72241,-6.4101 11.9844,-14.52981 14.5626,-24.15189 7.48296,-27.92709 -9.14365,-56.63478 -37.07033,-64.11757 -2.93981,-0.78736 -5.88458,-1.23091 -8.81664,-1.50001 1.7378,-24.5241 -14.02389,-47.66213 -38.65036,-54.26087 z"
+       id="path4952"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:14.79046059;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,10 +1,19 @@
-<?php $title='Måla, lek var kreativ - Fingerpaint'; include(__DIR__ . '/header.php'); ?>
- 
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Paint, play and be creative with Fingerpaint</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
-<h1>Fingerpaint - Måla, lek var kreativ med färg och bild</h1>
+<body>
+
+<div id='wrapper'>
+
+<h1>Paint, play and be creative with Fingerpaint</h1>
 
 <canvas id="drawingCanvas" width="918" height="400" >
-  Din browser saknar stöd för canvas.
+  You're browser lacks canvas support.
 </canvas>
 <div id='controls'>
   <ul>
@@ -47,12 +56,13 @@
       </div>
     </li>
   </ul>
-  <span id='link-icon8'>Icons from <a href='https://icons8.com/'>Icons8</a> och clipart från <a href='http://www.clker.com/'>Clker</a>.</span>
+  <span id='link-icon8'>Icons from <a href='https://icons8.com/'>Icons8</a> and clipart from <a href='http://www.clker.com/'>Clker</a>.</span>
 </div>
 
-
+</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="fingerpaint.js"></script>
 
-<?php include(__DIR__ . '/footer.php'); ?>
+</body>
+</html>
