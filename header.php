@@ -4,14 +4,16 @@
 <meta charset='utf-8' />
 <title><?=isset($title) ? $title : 'Fingerpaint'?></title>
 <link rel='icon' href='../img/favicon.ico'>
-<link rel="stylesheet/less" type="text/css" href="style.less">
+<!--<link rel="stylesheet/less" type="text/css" href="style.less">
 <script type="text/javascript">                                   
 console.log("Setting development mode for less compiler.");       
 less = {                                                           
   env: 'development',                                             
   dumpLineNumbers: "all"                                           
 };                                                                 
-</script>
+</script>-->
+<link rel="stylesheet" type="text/css" href="base.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <script src="../js/less.min.js"></script>
 <script src="../js/modernizr.js"></script>
 </head>

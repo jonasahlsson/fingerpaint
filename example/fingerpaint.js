@@ -39,7 +39,7 @@ var fingerPaint = (function () {
          * canvas mouse events
          */
         $('#drawingCanvas').mousedown( function (evt) {
-
+            
             // find coordinates for mousedown
             mouseX = evt.pageX - this.offsetLeft;
             mouseY = evt.pageY - this.offsetTop;
@@ -62,7 +62,6 @@ var fingerPaint = (function () {
             // }
 
             redraw();
-
         });
 
         $('#drawingCanvas').mouseup( function (evt) {
@@ -95,9 +94,9 @@ var fingerPaint = (function () {
 
                 redraw();
                 }
-
         });
 
+        
         /*
          * menu buttons
         */
@@ -254,7 +253,15 @@ var fingerPaint = (function () {
         $('#download-link').click( saveImg );
 
     };
-
+    
+    
+    var prevent = function() {
+        evt.stopPropagation();
+        evt.preventDefault();
+        evt.returnValue = false;
+        return false;
+    }
+    
 
     // push coordinates and linewidth to arrays, dragging decides if connected to previouspoint
     var addClick = function (x, y, dragging) {
@@ -407,9 +414,6 @@ var fingerPaint = (function () {
                 });
             }
         });
-
-
-
     };
 
 

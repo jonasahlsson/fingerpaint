@@ -2,7 +2,7 @@
  
 <h1>Fingerpaint</h1>
 
-  <p>Fingerpaint är en ritapplikation som använder HTML5 canvas och JavaScript. Passar utmärkt för barn och vuxen som vill leka tillsammans vid datorn. Lekfullt, enkelt och kreativt! Applikationen är framtagen för att kunna hanteras av barn och är produkttestad av en tvåring. <strong>Touchskärm rekommenderas.</strong></p>
+  <p>Fingerpaint är en ritapplikation som använder HTML5 canvas och JavaScript. Passar utmärkt för barn och vuxen som vill leka tillsammans vid datorn. Lekfullt, enkelt och kreativt! Applikationen är framtagen för att kunna hanteras av barn och är produkttestad av en tvååring. <strong>Touchskärm rekommenderas.</strong></p>
   
   <ul>
     <li>Rita på fri hand</li>
